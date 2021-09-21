@@ -1,3 +1,77 @@
+/*
+Colour Pallete from Coolors.co
+
+Alabaster - #E0E2DB
+Timberwolf - #D2D4C8
+Ash Gray - #B8BDB5
+Spanish Gray - #889696
+Xanadu - #5F7470
+*/
+
+/* Global Styles
+----------------------------------------------------*/
+body {
+  color: #5F7478;  
+}
+
 img {
     width: 300px; 
+}
+
+a {
+    color: #D2D4C8;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Profile
+----------------------------------------------------*/
+
+header {
+    background: #D2D4C8;
+    color: #889696;
+}
+
+/* Projects
+----------------------------------------------------*/
+
+.projects {
+    background: #E0E2DB;
+}
+
+.projects a {
+    color: #889696;
+} 
+
+.projects .btn {
+    color: #aeafaa;
+    background: #5F7470;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.projects .btn:hover {
+    background: rgba(95, 116, 112, 80%);
+    color: #aeafaa;
+}
+
+/* Work Experience
+----------------------------------------------------*/
+
+.work-experience {
+    background: #B8BDB5;
+}
+
+/* Education
+----------------------------------------------------*/
+
+/* Contact Info
+----------------------------------------------------*/
+
+footer {
+    background: #889696;
+    color: #E0E2DB;
 }

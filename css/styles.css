@@ -10,6 +10,14 @@ Xanadu - #5F7470
 
 /* Global Styles
 ----------------------------------------------------*/
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
 body {
   color: #5F7478;
   margin: 0;

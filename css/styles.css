@@ -95,7 +95,7 @@ header {
 
 .project-item {
     overflow: hidden;
-
+    border-bottom: 1px dashed #889696;
 }
 
 .project-item img {

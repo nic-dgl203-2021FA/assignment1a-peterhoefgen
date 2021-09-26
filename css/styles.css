@@ -93,6 +93,10 @@ header {
     color: #aeafaa;
 }
 
+.project-item img {
+float: left;
+}
+
 /* Work Experience
 ----------------------------------------------------*/
 

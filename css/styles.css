@@ -93,6 +93,11 @@ header {
     color: #aeafaa;
 }
 
+.project-item {
+    overflow: hidden;
+    
+}
+
 .project-item img {
 float: left;
 }

@@ -95,11 +95,12 @@ header {
 
 .project-item {
     overflow: hidden;
-    
+
 }
 
 .project-item img {
-float: left;
+    float: left;
+    margin-right: 20px;
 }
 
 /* Work Experience

@@ -125,3 +125,8 @@ footer {
     background: #889696;
     color: #E0E2DB;
 }
+
+.contact-list {
+    list-style-type: none;
+    padding: 0;
+}

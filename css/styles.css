@@ -58,6 +58,10 @@ h3 + p {
     font-style: italic;
 }
 
+h3 ~ p {
+    margin: 0;
+}
+
 .content-wrap {
     width: 900px;
     margin: 0 auto;

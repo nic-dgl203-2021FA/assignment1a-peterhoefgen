@@ -72,10 +72,15 @@ h3 {
     padding: 60px 0;
 }
 
-.divider {
+.divider > section {
     border-bottom: 1px dashed #889696;
     padding: 25px 0;
 }
+
+.divider > section:last-of-type {
+    border-style: none;
+}
+
 /* Profile
 ----------------------------------------------------*/
 

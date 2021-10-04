@@ -72,6 +72,10 @@ h3 {
     padding: 60px 0;
 }
 
+.divider {
+    border-bottom: 1px dashed #889696;
+    padding: 25px 0;
+}
 /* Profile
 ----------------------------------------------------*/
 
@@ -108,8 +112,7 @@ header {
 
 .project-item {
     overflow: hidden;
-    border-bottom: 1px dashed #889696;
-    padding: 25px 0;
+
 }
 
 .project-item img {

@@ -149,6 +149,7 @@ header {
 .education {
     background-image:url(../images/annie-spratt-unsplash.jpg);
     background-size: cover;
+    background-position: top right;
 }
 
 /* Contact Info

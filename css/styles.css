@@ -157,8 +157,6 @@ footer {
 .contact-list {
     list-style-type: none;
     padding: 0;
-    display: flex;
-    justify-content: center;
 }
 
 .contact-list a {
@@ -185,6 +183,11 @@ footer {
         grid-template-columns: 1fr 2fr;
         column-gap: 20px;
     }
+
+    .contact-list {
+        display: flex;
+        justify-content: center;
+    }
 }
 
 @media screen and (max-width:749px) {
@@ -192,6 +195,7 @@ footer {
         font-size: 75px;
         line-height: 0.9px;
         margin-bottom: 20px;
+        line-height: 0.9;
     }
 
     h2 {

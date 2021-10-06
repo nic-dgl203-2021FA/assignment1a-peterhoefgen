@@ -85,9 +85,26 @@ h3 {
 /* Profile
 ----------------------------------------------------*/
 nav {
-    background: #D2D4C8;
+    background: #E0E2DB;
     color: #889696;
     margin: 0;
+}
+
+nav ul {
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    padding: 15px;
+    display: inline-block;
+}
+
+nav a {
+    color: #889696;
+    text-decoration: none;
 }
 
 /* Profile

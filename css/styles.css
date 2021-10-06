@@ -134,7 +134,11 @@ header {
 
 /* Education
 ----------------------------------------------------*/
-
+.education {
+    background-image: url(../images/joanna-kosinska-unsplashbw.jpg);
+    background-size: cover;
+    
+}
 
 .education p {
     width: 60%;

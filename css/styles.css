@@ -116,6 +116,12 @@ nav a:active {
     color: #adff2f;
 }
 
+nav button {
+    padding: 5px;
+    background: #889696;
+    color: #E0E2DB;
+}
+
 /* Profile
 ----------------------------------------------------*/
 
